@@ -35,7 +35,7 @@ x-acquired:
   notes: Rebranded Voicera to Voicea prior to acquisition; technology absorbed into
     Cisco Webex Assistant. voicera.com unreachable and voicea.com returns 404 /
     redirects to webex.com as of 2026-07-21.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
